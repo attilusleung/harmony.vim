@@ -3,7 +3,7 @@
 " Maintainer: Yuet Ming Leung <yl787@cornell.edu>
 " Last Change: 2022 April 11
 
-Quit when a syntax file was already loaded
+" Quit when a syntax file was already loaded
 if !exists("main_syntax")
   if version < 600
     syntax clear
