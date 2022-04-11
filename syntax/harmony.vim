@@ -45,7 +45,7 @@ syn keyword boolKey False True
 
 syn match functionName '[a-zA-Z_][a-zA-Z_0-9]*' contained
 
-syn match number '\d\+' display
+syn match number '\<\d\+\>' display
 
 syn match comment "#.*$" contains=TODO
 syn match comment "(\(\*\_.*\*\))" contains=TODO
