@@ -14,3 +14,5 @@ plug#end()
 ```
 
 or your favorite vim plugin manager.
+
+Alternatively, copy `syntax` and `ftdetect`to your `~/.vim` folder
