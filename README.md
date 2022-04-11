@@ -5,7 +5,7 @@ A simple vim syntax highlighting file for the [harmony language](https://harmony
 ### Installation
 Use Vim-Plug:
 
-```
+```vim
 plug#begin()
 
 Plug 'attilusleung/harmony.vim'
