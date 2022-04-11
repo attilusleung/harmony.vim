@@ -1,6 +1,6 @@
 # Syntax Highlighting for Harmony files
 
-A simple syntax highlighting file for vim.
+A simple vim syntax highlighting file for the [harmony language](https://harmony.cs.cornell.edu/).
 
 ### Installation
 Use Vim-Plug:
